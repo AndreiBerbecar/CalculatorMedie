@@ -1,0 +1,10 @@
+E:\c#\CalculatorMedie\CalculatorMedie\bin\Debug\CalculatorMedie.exe.config
+E:\c#\CalculatorMedie\CalculatorMedie\bin\Debug\CalculatorMedie.exe
+E:\c#\CalculatorMedie\CalculatorMedie\bin\Debug\CalculatorMedie.pdb
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.csproj.AssemblyReference.cache
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.FrmMain.resources
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.Properties.Resources.resources
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.csproj.GenerateResource.cache
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.csproj.CoreCompileInputs.cache
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.exe
+E:\c#\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.pdb
